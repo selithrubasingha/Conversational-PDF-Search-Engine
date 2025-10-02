@@ -5,7 +5,7 @@
 
 This project is a powerful Q\&A chatbot that allows you to have a conversation with your PDF documents. Instead of manually searching through lengthy files, you can simply upload a document and ask questions in natural language. The application leverages a sophisticated Retrieval-Augmented Generation (RAG) pipeline to provide accurate, context-aware answers.
 
-*(**Note**: You can replace this with a screenshot of your own app)*
+
 
 -----
 
